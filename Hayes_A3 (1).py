@@ -1,11 +1,5 @@
 """
-See instructions in CSCI111_A3.pdf
-
-Be sure to rename this file Lastname_A3.py, using your last name
-in place of "Lastname".
-
-Your name: Keon Hayes
-
+@author: Keon Hayes
 """
 
 import math #Importing the math module to use its square root function.

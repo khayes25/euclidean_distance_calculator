@@ -1,2 +1,2 @@
 # euclidean_distance_calculator
-Euclidean Distance Calculator
+This program will implement the Euclidean Distance formula to find the distance between two points on a graph.
